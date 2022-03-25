@@ -7,4 +7,5 @@ export 'package:keycloak_flutter/src/keycloak.dart'
         KeycloakInitOptions,
         KeycloakLogoutOptions,
         KeycloakLoginOptions,
-        KeycloakProfile;
+        KeycloakProfile,
+        KeycloakTokenParsed;
